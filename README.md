@@ -51,5 +51,18 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 
+## Mock-Up
+[Home Page](./Main/assets/images/home_page.jpg)
+
+[Manifest](./Main/assets/images/manifest.jpg)
+
+[Service Work](./Main/assets/images/service_workers.jpg)
+
+[Database](./Main/assets/images/database_jate.jpg)
+
+[Install](./Main/assets/images/install.jpg)
+
+
 ## Deployment
+[My Text Editor J.A.T.E](https://my-text-editor-2syt.onrender.com)
 
